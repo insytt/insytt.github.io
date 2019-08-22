@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 ##这是第一个GitHub页面。
 测试 2019-08-22
-[视频播放代码.html](视频播放代码.html_blank)
+[视频播放代码.html](视频播放代码.html?_blank)
 
 You can use the [editor on GitHub](https://github.com/insytt/insytt.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
